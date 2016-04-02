@@ -16,9 +16,9 @@ void setup()
 
 void loop() {
   counter++;
-  String baseData = "exm.gr/";
+  String baseData = "EXM";
   String dataToSend = baseData + counter;
   LoRa_Lib.LoRaSendAndReceive(dataToSend);
   Serial.println("LoRa status:");
-  delay(5000);
+  delay(15000);
 }

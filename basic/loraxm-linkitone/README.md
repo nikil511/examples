@@ -1,11 +1,11 @@
-# Getting Started with The Things UNO
+# Getting Started with LoRaXM for TTN
 
-Super simple code samples to get you started with The Things UNO and The Things Network.
+Super simple code samples to get you started with LinkIT ONE - LoRaXM and The Things Network.
 
 ## Instructions
 
  * [Install Arduino IDE](https://www.arduino.cc/en/Main/Software) and connect your LoRa ex Machina LinkIT ONE to your computer.
- * Ensure that in the IDE 'Tools -> Board' is set to 'Arduino Leonardo' (otherwise compilation will fail, as it will not recognize Serial1)
+ * Ensure that in the IDE 'Tools -> Board' is set to 'Link IT one' (otherwise compilation will fail, as it will not recognize Serial1)
  * Clone this repository:
 
         $ git clone https://github.com/TheThingsNetwork/examples.git
